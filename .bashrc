@@ -108,3 +108,6 @@ export LST_PATH=/data/henry1/keshavan/spm/spm12/toolbox/LST
 export PATH="/home/sf713420/anaconda3/bin:$PATH"
 
 source activate james_pbr
+
+# MATLAB Runtime R2015b
+export MCRROOT=/data/henry7/james/MATLAB/MATLAB_Runtime/v90
